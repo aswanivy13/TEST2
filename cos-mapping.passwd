@@ -1,0 +1,13 @@
+gold:::::::userdb_quota_rule=*:storage=20684M
+silver:::::::userdb_quota_rule=*:storage=1M
+mail:::::::userdb_quota_rule=*:storage=10342M
+mail-noad:::::::userdb_quota_rule=*:storage=10342M
+combo:::::::userdb_quota_rule=*:storage=10342M
+combo-noad:::::::userdb_quota_rule=*:storage=10342M
+combo-secondary:::::::userdb_quota_rule=*:storage=10342M
+combo-secondary-noad:::::::userdb_quota_rule=*:storage=10342M
+preefl:::::::userdb_quota_rule=*:storage=10342M
+preefl-noad:::::::userdb_quota_rule=*:storage=10342M
+efl:::::::userdb_quota_rule=*:storage=10342M
+efl-noad:::::::userdb_quota_rule=*:storage=10342M
+default:::::::userdb_quota_rule=*:storage=10342M
